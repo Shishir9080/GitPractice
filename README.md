@@ -1,3 +1,3 @@
 # GitPractice
 Practicing Git Tutorial
-Author - Shishir Suman
+Author - Shishir Suman (SRM University)
